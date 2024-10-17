@@ -1,0 +1,8 @@
+﻿  IT_Lab1.cpp
+C:\Users\dwarf\source\repos\IT_Lab1\IT_Lab1\IT_Lab1.cpp(57,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\source\repos\IT_Lab1\IT_Lab1\IT_Lab1.cpp(151,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dwarf\source\repos\IT_Lab1\IT_Lab1\IT_Lab1.cpp(213,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dwarf\source\repos\IT_Lab1\IT_Lab1\IT_Lab1.cpp(229,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dwarf\source\repos\IT_Lab1\IT_Lab1\IT_Lab1.cpp(240,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dwarf\source\repos\IT_Lab1\IT_Lab1\IT_Lab1.cpp(256,27): warning C4018: '<': signed/unsigned mismatch
+  IT_Lab1.vcxproj -> C:\Users\dwarf\source\repos\IT_Lab1\x64\Debug\IT_Lab1.exe
